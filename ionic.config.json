@@ -1,5 +1,7 @@
 {
   "name": "blank-test",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
